@@ -1,5 +1,6 @@
-MikeSchroll.github.io
+LogicX2.github.io
 =====================
+Mike Schroll
 
 Your Public Site
 
